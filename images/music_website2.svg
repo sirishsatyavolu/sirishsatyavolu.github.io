@@ -1,0 +1,34 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 505 505">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #4d4d4d;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <title>7e1bd06c-6cf5-4e80-98c6-caa874f577ec</title>
+  <path class="cls-1" d="M335.833,2.5H472.5a30,30,0,0,1,30,30v440a30,30,0,0,1-30,30H335.833a0,0,0,0,1,0,0V2.5A0,0,0,0,1,335.833,2.5Z"/>
+  <rect class="cls-1" x="169.052" y="2.5" width="166.667" height="500"/>
+  <path class="cls-1" d="M32.5,2.5H169.167a0,0,0,0,1,0,0v500a0,0,0,0,1,0,0H32.5a30,30,0,0,1-30-30V32.5a30,30,0,0,1,30-30Z"/>
+  <path class="cls-2" d="M107.5,2.5h120a0,0,0,0,1,0,0v258a30,30,0,0,1-30,30h-60a30,30,0,0,1-30-30V2.5A0,0,0,0,1,107.5,2.5Z"/>
+  <path class="cls-2" d="M278.5,2.5h120a0,0,0,0,1,0,0v258a30,30,0,0,1-30,30h-60a30,30,0,0,1-30-30V2.5A0,0,0,0,1,278.5,2.5Z"/>
+  <rect id="Border" class="cls-3" x="2.5" y="2.5" width="500" height="500" rx="30" ry="30"/>
+</svg>

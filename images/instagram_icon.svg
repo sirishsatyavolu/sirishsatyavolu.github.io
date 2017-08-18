@@ -1,0 +1,46 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 505 505">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+        stroke-width: 5px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-6 {
+        stroke: #4d4d4d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #999;
+      }
+
+      .cls-4 {
+        fill: #f2f2f2;
+      }
+
+      .cls-5 {
+        fill: #4d4d4d;
+        stroke: #999;
+      }
+
+      .cls-6 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>e5c41a66-5aaf-4eca-8d59-16ffe622d5dc</title>
+  <rect class="cls-1" x="2.5" y="2.5" width="500" height="500" rx="30" ry="30"/>
+  <rect class="cls-2" x="72.916" y="72.916" width="359.168" height="359.168" rx="110" ry="110"/>
+  <rect class="cls-3" x="100.076" y="100.076" width="304.847" height="304.847" rx="100" ry="100"/>
+  <rect class="cls-4" x="165.021" y="165.021" width="174.957" height="174.957" rx="87.479" ry="87.479"/>
+  <circle class="cls-5" cx="252.5" cy="252.5" r="64.036"/>
+  <circle class="cls-6" cx="352.5" cy="152.5" r="15"/>
+</svg>
